@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ROOMARTE
 
 **ROOMARTE** is a simple tool to help you find real paintings for your home. This project started because I want people to display actual human art on their walls, instead of the endless AI-generated slop we see everywhere today. 
@@ -13,10 +12,6 @@ You can search for paintings using whatever feels right for your room:
 
 ## Why I built this
 
-Art shouldn't just stay hidden on museum websites or phone screens ! It belongs in our living spaces.
+Art shouldn't just stay hidden on museum websites or phone screens ! To me, it belongs in our living spaces and makes a room feel alive
 
-ROOMARTE helps you find artwork based on how your room actually looks and feels, making it easy to bring real art back into your daily life.
-=======
-# roomarte
-Tool to find paintings
->>>>>>> f6ba613 (Initial commit)
+ROOMARTE helps you find artwork based on how your room actually looks and feels, making it easy to bring real art back into your daily life
