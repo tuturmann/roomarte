@@ -1,5 +1,9 @@
 <label>Recherche par ID</label>
 <input type="search" id="searchbar" (input)="onSearchById($event)"/>
 
-<p>{{artwork?.objectID}}</p>
-<img src={{artwork?.primaryImageSmall}}/>
+@if(artwork){
+  <p>{{artwork?.objectID}}</p>
+  <img src={{artwork?.primaryImageSmall}}/>
+} @else {
+  <p>No painting matches your search</p>
+}
