@@ -7,7 +7,7 @@
 You can search for paintings using whatever feels right for your room:
 
 * **Color:** Type a hex code (like `#FFC72C`) to find artwork that matches your walls or furniture, like Claude Monet's *Bouquet of Sunflowers*
-* **Mood:** Filter by the mood or feeling you want to bring into your space
+* **Mood:** Filter by the **mood** or **feeling** you want to bring into your space
 * **Details:** Look things up the classic way by **artist name** or **year**
 
 ## Why I built this
